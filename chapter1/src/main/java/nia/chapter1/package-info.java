@@ -1,7 +1,7 @@
 /**
  * kerr.
  *
- * Listing 1.1 Blocking I/O example {@link nia.chapter1.BlockingIoExample#serve(int)}
+ * Listing 1.1 Blocking I/O example {@link nia.chapter1.exp.BlockingIoServer#serve(int)}
  *
  * Listing 1.2 ChannelHandler triggered by a callback {@link nia.chapter1.ConnectHandler}
  *
